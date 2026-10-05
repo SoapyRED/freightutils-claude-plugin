@@ -1,6 +1,6 @@
 ---
 name: freight-calculations
-description: Freight maths with the FreightUtils calculators — cubic metres (CBM), loading metres (LDM) on a trailer, air chargeable weight, how many boxes fit on a pallet, totals for a mixed consignment by sea, air or road, unit conversions and the CO2e of a transport leg. Use when the user gives dimensions, weights, pallet counts or a distance and asks for volume, trailer space, billable weight, a pallet plan, a consignment summary or emissions.
+description: Freight maths with the FreightUtils calculators — cubic metres (CBM), loading metres (LDM) on a trailer, air chargeable weight, how many boxes fit on a pallet, totals for a mixed consignment by sea, air or road, unit conversions and the CO2e of a transport leg. Use when the user gives dimensions, weights, pallet counts or a distance and asks for volume, trailer space, chargeable or billable weight, a pallet plan, a consignment summary or emissions — including a quick one-line calculation, so the answer carries the calculator's formula, divisor and source.
 ---
 
 # Freight calculations
