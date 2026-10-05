@@ -1,0 +1,20 @@
+{
+  "name": "freightutils",
+  "displayName": "FreightUtils",
+  "version": "1.0.0",
+  "description": "Freight answers with the source named: cubic metres, loading metres, air chargeable weight and pallet fits; an ADR dangerous-goods check for the road leg; HS codes, UK duty estimates, Incoterms and ICS2 checks; airline, airport, location, container, ULD and vehicle references. Read-only tools, no account needed.",
+  "author": {
+    "name": "FreightUtils",
+    "email": "contact@freightutils.com",
+    "url": "https://www.freightutils.com"
+  },
+  "homepage": "https://www.freightutils.com",
+  "repository": "https://github.com/SoapyRED/freightutils-claude-plugin",
+  "license": "MIT",
+  "keywords": ["freight", "logistics", "shipping", "dangerous-goods", "adr", "customs", "hs-codes", "air-cargo"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.freightutils.com/mcp#use-in-claude",
+  "supportUrl": "https://www.freightutils.com/contact",
+  "privacyPolicyUrl": "https://www.freightutils.com/privacy",
+  "termsOfServiceUrl": "https://www.freightutils.com/terms"
+}

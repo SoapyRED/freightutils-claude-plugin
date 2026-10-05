@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "freightutils": {
+      "type": "http",
+      "url": "https://www.freightutils.com/api/mcp"
+    }
+  }
+}
